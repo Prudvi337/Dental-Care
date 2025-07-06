@@ -7,7 +7,7 @@ This application simulates a real-world dental clinic workflow, managing patient
 
 ### 🚀 Live Demo
 
-> **[Deployed App Link](#)**  
+> **[https://dental-care-entnt.vercel.app/](https://dental-care-entnt.vercel.app/)**  
 
 ---
 
@@ -155,8 +155,8 @@ src/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/entnt-dental-dashboard.git
-   cd entnt-dental-dashboard
+   git clone https://github.com/Prudvi337/Dental-Care.git
+   cd Dental-Care
    ```
 
 2. **Install dependencies**
